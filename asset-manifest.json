@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/couleur-app/static/css/main.3c886e4b.css",
+    "main.js": "/couleur-app/static/js/main.ebed4fd6.js",
+    "index.html": "/couleur-app/index.html",
+    "main.3c886e4b.css.map": "/couleur-app/static/css/main.3c886e4b.css.map",
+    "main.ebed4fd6.js.map": "/couleur-app/static/js/main.ebed4fd6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c886e4b.css",
+    "static/js/main.ebed4fd6.js"
+  ]
+}
